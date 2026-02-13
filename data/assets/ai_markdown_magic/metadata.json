@@ -1,0 +1,11 @@
+{
+    "title": "AI Markdown Magic",
+    "description": "An AI-Powered tool that optimizes your markdown files for cleaner data ingestion by language learning models (LLMs), ensuring your documents are pristine and perfectly formatted.",
+    "version": "1.0.0-test",
+    "qa_status": "failed",
+    "tech_stack": [
+        "python",
+        "BeautifulSoup",
+        "markdown"
+    ]
+}
