@@ -1,0 +1,37 @@
+# AI Markdown Magic Configuration File
+
+# Project Title
+title: AI Markdown Magic
+
+# Project Description
+description: An AI-Powered tool that optimizes your markdown files for cleaner data ingestion by language learning models (LLMs), ensuring your documents are pristine and perfectly formatted.
+
+# Tech Stack Used
+tech_stack:
+  - python
+  - BeautifulSoup
+  - markdown
+
+# Paths Configuration
+paths:
+  input_directory: './markdown_files' # Directory containing markdown files to be processed
+  output_directory: './processed_markdown_files' # Directory where the processed files will be stored
+  log_directory: './logs' # Directory for storing logs
+
+# Cleanup Preferences
+cleanup:
+  remove_html_tags: true # Removes HTML tags embedded in markdown files
+  fix_broken_links: true # Attempts to fix broken links found in the documents
+  normalize_headings: true # Ensures headings are consistently formatted
+  trim_trailing_whitespace: true # Removes any trailing white spaces at the end of lines
+
+# Enhancement Preferences
+enhancements:
+  generate_toc: true # Generates a Table of Contents for documents
+  improve_code_blocks: true # Formats code blocks for better readability
+  enhance_images: true # Analyzes and improves image alt texts
+
+# Miscellaneous Settings
+misc:
+  verbose_logging: false # Enables detailed logging for debugging purposes
+  backup_originals: true # Creates a backup of original files before processing
