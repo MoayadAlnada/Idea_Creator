@@ -1,0 +1,5 @@
+python>=3.8
+beautifulsoup4>=4.9.3
+markdown>=3.3.4
+lxml>=4.6.3
+requests>=2.25.1
