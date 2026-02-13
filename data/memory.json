@@ -1,0 +1,11 @@
+{
+    "seen_urls": [],
+    "successful_assets": [
+        "QuickAI Ideas (Failed)"
+    ],
+    "failed_assets": [],
+    "learning_stats": {
+        "total_scans": 0,
+        "total_built": 1
+    }
+}
