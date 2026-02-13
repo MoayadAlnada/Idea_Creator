@@ -1,0 +1,12 @@
+{
+    "title": "QuickAI Ideas",
+    "description": "Effortlessly generate fresh content ideas with AI. Perfect for bloggers, marketers, and creative professionals who are running out of inspiration.",
+    "version": "1.0.0",
+    "qa_status": "failed",
+    "tech_stack": [
+        "python",
+        "react",
+        "GPT-3 API",
+        "WordPress REST API"
+    ]
+}
